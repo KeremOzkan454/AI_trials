@@ -1,0 +1,68 @@
+[
+    { "text": "Merhaba, nasılsın?", "intent": "greeting" },
+    { "text": "Günaydın, nasılsınız?", "intent": "greeting" },
+    { "text": "Merhaba, yardım edebilir misiniz?", "intent": "greeting" },
+    { "text": "Merhaba, yardıma ihtiyacım var.", "intent": "greeting" },
+    { "text": "Günaydın, nasıl yardımcı olabilirim?", "intent": "greeting" },
+
+    { "text": "Bana siber güvenlik hakkında bilgi verir misiniz?", "intent": "cyber_security" },
+    { "text": "Siber tehditlerden korunmak için ne yapmalıyım?", "intent": "cyber_security" },
+    { "text": "Dijital dünyada kendimi nasıl korurum?", "intent": "cyber_security" },
+    { "text": "Firewall nedir, nasıl çalışır?", "intent": "cyber_security" },
+    { "text": "Siber güvenlik ile ilgili daha fazla bilgi verir misiniz?", "intent": "cyber_security" },
+    { "text": "Güvenlik duvarı nasıl çalışır?", "intent": "cyber_security" },
+    { "text": "Siber güvenlik hakkında daha fazla bilgi almak istiyorum.", "intent": "cyber_security" },
+
+    { "text": "Şifre güvenliği hakkında bilgi verir misiniz?", "intent": "password_security" },
+    { "text": "Parolalarımı nasıl daha güvenli tutabilirim?", "intent": "password_security" },
+    { "text": "Şifre yöneticisi nedir, nasıl kullanılır?", "intent": "password_security" },
+    { "text": "Şifrelerimi kimseyle paylaşmalı mıyım?", "intent": "password_security" },
+    { "text": "Güçlü bir şifre nasıl oluşturulur?", "intent": "password_security" },
+    { "text": "Şifre nasıl güvenli oluşturulur ve saklanır?", "intent": "password_security" },
+    { "text": "Şifre yönetimi hakkında bilgi verir misiniz?", "intent": "password_security" },
+
+    { "text": "VPN nedir ve neden kullanmalıyım?", "intent": "privacy" },
+    { "text": "VPN kullanmanın avantajları nelerdir?", "intent": "privacy" },
+    { "text": "Güvenli internet tarayıcıları hakkında bilgi verir misiniz?", "intent": "privacy" },
+    { "text": "Kişisel bilgilerimi internetten nasıl korurum?", "intent": "privacy" },
+    { "text": "En güvenilir VPN hizmetleri hangileridir?", "intent": "privacy" },
+
+    { "text": "Bilgisayarımı virüslerden nasıl koruyabilirim?", "intent": "virus_protection" },
+    { "text": "Antivirüs yazılımı nasıl seçilir?", "intent": "virus_protection" },
+    { "text": "Kötü amaçlı yazılımlar nasıl tespit edilir?", "intent": "virus_protection" },
+    { "text": "Antivirüs yazılımı ile kötü amaçlı yazılımlar nasıl tespit edilir?", "intent": "virus_protection" },
+    { "text": "Ransomware nedir ve nasıl korunurum?", "intent": "virus_protection" },
+
+    { "text": "Veri ihlali nedir ve nasıl önlenir?", "intent": "data_breach" },
+    { "text": "Bir veri ihlali yaşadığımı nasıl anlayabilirim?", "intent": "data_breach" },
+    { "text": "Veri ihlali nasıl bildirilir ve hangi adımlar izlenir?", "intent": "data_breach"},
+    { "text": "Veri ihlali sonrası kullanıcı bilgilerini nasıl koruyabilirim?" , "intent": "data_breach"},
+
+    { "text": "Sosyal mühendislik saldırılarına karşı nasıl korunurum?", "intent": "social_engineering" },
+    { "text": "Sosyal mühendislik saldırılarını nasıl tanıyabilirim?", "intent": "social_engineering"},
+    { "text": "E-posta ile gelen sosyal mühendislik saldırılarından nasıl korunurum?", "intent": "social_engineering"},
+    { "text": "Telefonla yapılan sosyal mühendislik saldırılarına karşı ne gibi önlemler alabilirim?", "intent": "social_engineering"},
+
+    { "text": "Kimlik avı nedir ve nasıl korunurum?", "intent": "phishing" },
+    { "text": "Kimlik avı saldırılarına karşı neler yapabilirim?", "intent": "phishing" },
+    { "text": "Kimlik avı e-postalarını nasıl tespit edebilirim?", "intent": "phishing"},
+    { "text": "Kimlik avı saldırıları sırasında hangi adımları atmalıyım?", "intent": "phishing"},
+
+    { "text": "İki faktörlü kimlik doğrulama neden önemlidir?", "intent": "two_factor_auth" },
+    { "text": "İki faktörlü kimlik doğrulama nasıl kurulur?", "intent": "two_factor_auth" },
+    { "text": "Çok faktörlü kimlik doğrulama hangi güvenlik risklerini azaltır?", "intent": "two_factor_auth"},
+    { "text": "Telefon numarası üzerinden çok faktörlü kimlik doğrulama nasıl yapılır?", "intent": "two_factor_auth"},
+
+    { "text": "Siber saldırılar nasıl tespit edilir?", "intent": "cyber_attack" },
+    { "text": "DDoS saldırılarına karşı nasıl korunurum?", "intent": "cyber_attack" },
+    { "text": "Siber saldırı anında ne yapmalıyım?", "intent": "cyber_attack" },
+    { "text": "Siber saldırılara karşı sistemimi nasıl daha güvenli hale getirebilirim?", "intent": "cyber_attack"},
+
+    { "text": "Veri şifreleme neden önemlidir?", "intent": "data_security" },
+    { "text": "Veri güvenliği neden önemlidir?", "intent": "data_security" },
+    { "text": "Veri güvenliğim için nelere dikkat etmeliyim?", "intent": "data_security" },
+    { "text": "Bilgilerimi nasıl korurum?", "intent": "data_security" },
+    { "text": "Veri şifreleme nasıl yapılır?", "intent": "data_security" }
+
+
+]
